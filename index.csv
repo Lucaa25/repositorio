@@ -1,6 +1,4 @@
-
-  SepalLength	SepalWidth	PetalLength	PetalWidth	Class
-        7	3,2	4,7	1,4	juan
-        6,4	3,2	4,5	1,5	marcos
-        6,9	3,1	4,9	1,5	chalu
-        
+  SepalLength,SepalWidth,PetalLength,PetalWidth,Class,Nueva_Columna,Columna_Existente
+7.0,3.2,4.7,1.4,juan,Valor por defecto,Nuevo valor
+6.4,3.2,4.5,1.5,marcos,Valor por defecto,
+6.9,3.1,4.9,1.5,chalu,Valor por defecto,
