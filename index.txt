@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <pre >SepalLength	SepalWidth	PetalLength	PetalWidth	Class
+
+  SepalLength	SepalWidth	PetalLength	PetalWidth	Class
         7	3,2	4,7	1,4	versicolor
         6,4	3,2	4,5	1,5	versicolor
         6,9	3,1	4,9	1,5	versicolor
@@ -107,6 +100,4 @@
         4,6	3,2	1,4	0,2	setosa
         5,3	3,7	1,5	0,2	setosa
         5	3,3	1,4	0,2	setosa
-        </pre>
-</body>
-</html>
+  
